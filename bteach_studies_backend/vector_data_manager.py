@@ -15,7 +15,7 @@ VECTORSTORE_DIR = "vectorstore"
 
 def generate(query, content):
     client = genai.Client(
-        api_key="AIzaSyB_S6bvUxuRIWo7fPloXh12IS6tw5lv89Q",
+        api_key=<GEMINI_API_KEY>,
     )
 
     model = "gemini-flash-lite-latest"
