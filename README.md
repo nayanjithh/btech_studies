@@ -1,4 +1,4 @@
-# BTechStudies – AI-Powered Notes ChatBot
+# BTechStudies – AI-Powered Notes ChatBot(RAG)
 
 **BTechStudies** is a web application that allows students to **upload, store, and query academic notes** efficiently. The system uses **PDF vector embeddings** to answer queries from uploaded notes, making studying and reference easier.
 
